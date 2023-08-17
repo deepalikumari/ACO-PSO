@@ -1,3 +1,5 @@
 # ACO-PSO
 HYBRID ALGO.
-This contains code for PSO, ACO and hybrid code combining both PSO-ACO for solving travelling salesman problem With python language.
+## SOFT COMPUTING
+This repository encompasses Python implementations of optimization algorithms including Particle Swarm Optimization (PSO),
+Ant Colony Optimization (ACO), and a hybrid amalgamation of PSO and ACO. The purpose is to address the Travelling Salesman Problem.
